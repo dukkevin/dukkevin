@@ -15,7 +15,7 @@ Current :mortar_board:student at *Transilvania University of Brasov*, I'm lookin
 &nbsp;
 &nbsp;
 
-#### Little facts about me
+#### :fire:Little facts about me
 - 🔭 I’m currently working on **all kind of projects for my portfolio** 
 - 🌱 I’m currently learning **new JavaScript skills**
 - 🤔 I’m looking for help with **getting more into IT industry**
@@ -26,6 +26,6 @@ Current :mortar_board:student at *Transilvania University of Brasov*, I'm lookin
 &nbsp;
 &nbsp;
 
-#### Other socials
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/dukkevin/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'>](https://codepen.io/https://codepen.io/dukkevin) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='20'>](https://dribbble.com/dkevin) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='20'>](https://www.behance.net/dkevin)  
+#### Socials
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/dkevin/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/dukkevin/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'>](https://codepen.io/https://codepen.io/dukkevin) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='20'>](https://dribbble.com/dkevin) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='20'>](https://www.behance.net/dkevin)
 
