@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kevin <img src='https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&labelColor=222222&color=0A66C2&logoColor=fff&label=%20' alt='github' height='20'>
+# Hi there 👋, I'm Kevin &nbsp;&nbsp; <img src='https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&labelColor=222222&color=0A66C2&logoColor=fff&label=%20' alt='github' height='20'>
 #### :baby:Front-end Developer in making
 Day by day I'm working to improve my coding and designing skills <br> to become a better developer and making full-stack products that works
 #### 🛠Tech enthusiast :books:Self learner guy
@@ -23,7 +23,7 @@ Current :mortar_board:student at *Transilvania University of Brasov*, I'm lookin
 - 🤔 I’m looking for help with **getting more into IT industry**
 - 💬 Ask me about **anything**
 - 📫 How to reach me: *dukkevin@gmail.com* 
-- ⚡ Fun fact: **I was a professional skier**
+- ⚡ Fun fact: *trying to find one*
 
 &nbsp;
 &nbsp;
