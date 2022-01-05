@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kevin &nbsp;&nbsp; <img src='https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&labelColor=222222&color=0A66C2&logoColor=fff&label=%20' alt='github' height='20'>
+# Hi there 👋, I'm Kevin &nbsp;&nbsp; <a href="https://www.linkedin.com/in/dkevin/" target="_blank"><img src='https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&labelColor=222222&color=0A66C2&logoColor=fff&label=%20' alt='github' height='20'></a>
 #### :baby:Front-end Developer in making
 Day by day I'm working to improve my coding and designing skills <br> to become a better developer and making full-stack products that works
 #### 🛠Tech enthusiast :books:Self learner guy
@@ -29,5 +29,5 @@ Current :mortar_board:student at *Transilvania University of Brasov*, I'm lookin
 &nbsp;
 
 #### Socials
-<a href="https://www.linkedin.com/in/dkevin/" target="_blank">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/dkevin/)</a> &nbsp; <a href="https://www.facebook.com/dukkevin/" target="_blank">[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/dukkevin/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'>](https://codepen.io/https://codepen.io/dukkevin) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='20'>](https://dribbble.com/dkevin) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='20'>](https://www.behance.net/dkevin)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/dkevin/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/dukkevin/) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'>](https://codepen.io/https://codepen.io/dukkevin) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='20'>](https://dribbble.com/dkevin) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='20'>](https://www.behance.net/dkevin)
 
