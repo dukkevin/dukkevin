@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Kevin &nbsp;&nbsp; <a href="https://www.linkedin.com/in/dkevin/" target="_blank"><img src='https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&labelColor=222222&color=0A66C2&logoColor=fff&label=%20' alt='github' height='20'></a>
 #### :baby:Front-end Developer to be
-Day by day I'm working to improve my coding and designing skills <br> to become a better developer and making full-stack products that works
+Day by day I'm working to improve my coding and designing skills <br> to become a better developer and to make full-stack products
 #### 🛠Tech enthusiast :books:Self learner guy
-Current :mortar_board:student at *Transilvania University of Brasov*, I'm looking to take part of cool projects and develop awesome things on web and not only. In a continuous process of learning about programming languages, I want to reach my highest level. With attention to details, a developed sense of excellence and a lot of determination, I like to complete any project and surprise others with the results.
+Current :mortar_board:student at *Transilvania University of Brasov*, I'm looking to take part at cool projects and develop awesome things on web and not only. In a continuous process of learning more about programming languages, I want to reach my highest level. With attention to details, a developed sense of excellence and a lot of determination, I like to complete any project and to surprise with the results.
 &nbsp;
 &nbsp; 
 #### :star:My technology stack
@@ -12,15 +12,14 @@ Current :mortar_board:student at *Transilvania University of Brasov*, I'm lookin
 &nbsp;  
 #### :tada:My playgrounds
 <a href="https://codepen.io/dukkevin" target="_blank"><img src='https://img.shields.io/static/v1?message=CODEPEN&logo=codepen&labelColor=222222&color=000000&logoColor=fff&label=%20' alt='codepen' height='20'></a> <a href="https://dribbble.com/dkevin" target="_blank"><img src='https://img.shields.io/static/v1?message=DRIBBBLE&logo=dribbble&labelColor=222222&color=EA4C89&logoColor=fff&label=%20' alt='dribbble' height='20'></a> <a href="https://www.behance.net/dkevin" target="_blank"><img src='https://img.shields.io/static/v1?message=BEHANCE&logo=behance&labelColor=222222&color=1769FF&logoColor=fff&label=%20' alt='behance' height='20'></a><br>
-*From time to time I like to make stuff and even to :art:design.*
 
 &nbsp;
 &nbsp;
 
 #### :fire:Little facts about me
-- 🔭 I’m currently working on **all kind of projects for my portfolio** 
-- 🌱 I’m currently learning **new JavaScript skills**
-- 🤔 I’m looking for help with **getting more into IT industry**
+- 🔭 I’m currently working on **various projects for my portfolio** 
+- 🌱 I’m currently gaining **new JavaScript skills**
+- 🤔 I’m looking for help with **IT industry knowledge**
 - 💬 Ask me about **anything**
 - 📫 How to reach me: *dukkevin@gmail.com* 
 - ⚡ Fun fact: *trying to find one*
