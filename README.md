@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Kevin &nbsp;&nbsp; <a href="https://www.linkedin.com/in/dkevin/" target="_blank"><img src='https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&labelColor=222222&color=0A66C2&logoColor=fff&label=%20' alt='github' height='20'></a>
 #### :baby:Front-end Developer to be
 Day by day I'm working to improve my coding and designing skills <br> to become a better developer and to make full-stack products
-#### 🛠Tech enthusiast :books:Self learner guy
+#### 🛠Tech enthusiast :books:Self-learner guy
 Current :mortar_board:student at *Transilvania University of Brasov*, I'm looking to take part at cool projects and develop awesome things on web and not only. In a continuous process of learning more about programming languages, I want to reach my highest level. With attention to details, a developed sense of excellence and a lot of determination, I like to complete any project and to surprise with the results.
 &nbsp;
 &nbsp; 
