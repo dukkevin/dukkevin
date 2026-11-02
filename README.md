@@ -11,7 +11,7 @@ In a continuous process of learning more about programming languages, I want to 
 <img src='https://img.shields.io/static/v1?message=VS%20CODE&logo=visualstudiocode&labelColor=222222&color=007ACC&logoColor=fff&label=%20' alt='github' height='20'> <img src='https://img.shields.io/static/v1?message=GITHUB&logo=github&labelColor=222222&color=181717&logoColor=fff&label=%20' alt='github' height='20'> <img src='https://img.shields.io/static/v1?message=FIGMA&logo=figma&labelColor=222222&color=F24E1E&logoColor=fff&label=%20' alt='github' height='20'>
 &nbsp;  
 #### :tada:My playgrounds
-<a href="https://codepen.io/dukkevin" target="_blank"><img src='https://img.shields.io/static/v1?message=CODEPEN&logo=codepen&labelColor=222222&color=000000&logoColor=fff&label=%20' alt='codepen' height='20'></a> <a href="https://dribbble.com/dkevin" target="_blank"><img src='https://img.shields.io/static/v1?message=DRIBBBLE&logo=dribbble&labelColor=222222&color=EA4C89&logoColor=fff&label=%20' alt='dribbble' height='20'></a> <a href="https://www.behance.net/dkevin" target="_blank"><img src='https://img.shields.io/static/v1?message=BEHANCE&logo=behance&labelColor=222222&color=1769FF&logoColor=fff&label=%20' alt='behance' height='20'></a><br>
+<a href="https://codepen.io/dukkevin" target="_blank"><img src='https://img.shields.io/static/v1?message=CODEPEN&logo=codepen&labelColor=222222&color=000000&logoColor=fff&label=%20' alt='codepen' height='20'></a> <a href="https://dribbble.com/dkevin" target="_blank"><img src='https://img.shields.io/static/v1?message=DRIBBBLE&logo=dribbble&labelColor=222222&color=EA4C89&logoColor=fff&label=%20' alt='dribbble' height='20'></a>
 
 &nbsp;
 &nbsp;
